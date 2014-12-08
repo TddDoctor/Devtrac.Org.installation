@@ -1,2 +1,4 @@
-Devtrac.Org.installation
-========================
+devtrac
+=======
+
+testing the devtrac distribution
