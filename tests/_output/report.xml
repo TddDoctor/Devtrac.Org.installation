@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="acceptance" tests="1" assertions="6" failures="0" errors="0" time="24.608157">
+    <testcase name="devtracUsercreation" file="/var/www/html/DGI/tests/acceptance/devtracUsercreationCept.php" feature="Create users with different roles" assertions="6" time="24.608157"/>
+  </testsuite>
+</testsuites>
